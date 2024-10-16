@@ -1,1 +1,1 @@
-+HJN34FRGT5YH6JUAZXSCVBNM
+print("hello")
