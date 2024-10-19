@@ -1,4 +1,4 @@
-class ATM {
+public class ATM {
     private double balance;
 
     // Constructor
@@ -30,9 +30,7 @@ class ATM {
             System.out.println("Withdrawal amount exceeds balance or is invalid.");
         }
     }
-}
 
-public class ATMDemo {
     public static void main(String[] args) {
         // Create an ATM instance with an initial balance
         ATM atm = new ATM(1000.0);
